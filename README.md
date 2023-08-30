@@ -1,9 +1,10 @@
 Confira o link abaixo para ver a mágica!
-https://d0ctor-strange.github.io/Shield/
+<br>https://d0ctor-strange.github.io/Shield/
 
-
-![logo](https://github.com/d0octorstrange/d0octorstrange/assets/141174431/ef634db2-14da-4cab-ba2d-c5c23a3ed0c5)
-
+<p align="center">
+  <img src="logo.png" height="30%" width="30%">
+</p>
+<br>
 
 Entre os veús do tecido da realidade e os arcanos do universo, trilho o caminho do desconhecido como o Mago Supremo. Nas dobras do tempo e do espaço, mergulho em busca dos segredos ocultos que sustentam a existência. Manipulador das forças primordiais, eu desafio os limites da compreensão humana, dançando na fronteira entre a ordem e o caos.
 
